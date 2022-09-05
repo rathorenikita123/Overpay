@@ -1,0 +1,16 @@
+.forgotemail{
+    width: 21rem !important;
+}
+
+.para{
+    color: #718096;
+}
+
+.forgot{
+    height: 100vh;
+}
+
+.forgot .card{
+    border: none;
+    box-shadow: 1px 1px 10px 1px #dbd9d9;
+}

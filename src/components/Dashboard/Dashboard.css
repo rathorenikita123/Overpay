@@ -1,0 +1,11 @@
+.navbar{
+    background-color: #1A202C;
+}
+
+.logout{
+    width: 20rem !important;
+}
+
+.dashboard{
+    height: 100vh;
+}

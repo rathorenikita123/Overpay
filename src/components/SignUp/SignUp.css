@@ -1,0 +1,16 @@
+.picture {
+    width: 100px !important;
+    height: 100px !important;
+    border-radius: 50% !important;
+    margin-bottom: 20px !important;
+}
+
+.policy {
+    color: #718096;
+    font-size: 14px;
+}
+
+.policy span {
+    color: #000000;
+    font-weight: 600;
+}

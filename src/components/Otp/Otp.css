@@ -1,0 +1,21 @@
+.otp {
+  height: 100vh;
+}
+
+.code input {
+  width: 3rem !important;
+  padding: 0.5rem !important;
+  margin: 0.5rem !important;
+  font-weight: 600;
+  text-align: center;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}

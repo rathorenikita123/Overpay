@@ -1,0 +1,72 @@
+.divider:after,
+.divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+}
+
+.signin {
+    width: 21rem !important;
+    background-color: transparent !important;
+    border-color: #ced4da !important;
+}
+
+a {
+    color: #000000 !important;
+    text-decoration: none !important;
+}
+
+.lead {
+    color: #718096;
+}
+
+.divider p {
+    color: #6c757d !important;
+}
+
+.divider::before {
+    height: 2px;
+}
+
+.divider::after {
+    height: 2px;
+}
+
+.btn-login {
+    width: 21rem !important;
+}
+
+.footer p {
+    color: #718096 !important;
+    font-weight: 600;
+}
+
+.form-check-label {
+    color: #1A202C !important;
+    font-weight: 600;
+}
+
+.logo2 {
+    position: absolute;
+}
+
+.logo1 {
+    position: relative;
+    bottom: 0.3rem;
+    left: 0.4rem;
+}
+
+.icon i {
+    right: 1.4rem;
+    position: relative;
+}
+
+.background {
+    height: 95vh !important;
+    width: 40vw;
+}
+
+.circle {
+    border-radius: 8px !important;
+}
